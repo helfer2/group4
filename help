@@ -1,0 +1,23 @@
+4조 (125로 수행)
+user25@2miles.onmicorsoft.com Gu
+715652651898 user25  Gu
+
+terraform 설치
+https://developers.cloudflare.com/terraform/getting-started/installing/
+
+
+
+이미지 변경
+ami-04b2d1589ab1d972c
+
+group 이미 잇음 alb-target-group4 로 변경함
+
+aws lb dns
+group4-alb-1012749361.ap-northeast-1.elb.amazonaws.com
+
+
+php, apache 설치
+https://webnautes.tistory.com/1028
+
+
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY 'Passw0rd';
